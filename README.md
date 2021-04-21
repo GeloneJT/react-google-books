@@ -46,6 +46,10 @@ in your terminal to start the application to run locally OR the application can 
 ![GBView](img/GBView.png)
 ![GBSave](img/GBSave.png)
 
+Use the link below for a delpoyed version of this repo.
+
+[React Google Books](https://rut-react-google-books.herokuapp.com)
+
 <hr>
 
 ## Credit
