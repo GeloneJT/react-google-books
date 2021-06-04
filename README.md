@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project is to create a React-based application to search for books via Google Books Search. The user will be able to search for book titles and be able to save the search queries to a list as well as view more information on selected book. The returned search provides a list of books either identical or nearly idential to the search query, as well as displays books with similiar names and books also written by the author. In the Results field the book title, description of the book, and thumbnail are provided. Clicking the View button routes the user to a seperate [GoogleBooks]("https://books.google.com") page with more information on the book. Clicking the Save button allows the user to create a list of saved books under the Saved page where the saved books can be removed from the list.
+The purpose of this project is to create a React-based application to search for books via Google Books Search. The user will be able to search for book titles and be able to save the search queries to a list as well as view more information on selected book. The returned search provides a list of books either identical or nearly identical to the search query, as well as displays books with similiar names and books also written by the author. In the Results field the book title, description of the book, and thumbnail are provided. Clicking the View button routes the user to a seperate [GoogleBooks]("https://books.google.com") page with more information on the book. Clicking the Save button allows the user to create a list of saved books under the Saved page where the saved books can be removed from the list.
 
 ## Table of contents
 
